@@ -1,0 +1,9 @@
+# Ignore compiled binaries
+*.dll
+*.exe
+*.pdb
+
+# Ignore Visual Studio files
+.vscode/
+*.suo
+*.ntvs*
